@@ -1,0 +1,31 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://www.ad-attacks.com
+title: Active Directory Security
+email: your-email@domain.com
+author: RFS
+description: Explore our comprehensive article about Active Directory Security, breaking down crucial aspects to ensure robust network infrastructure protection. Discover expert advice and effective strategies today.
+copyright: 'Copyright &copy; 2024 RFS. All Rights Reserved.'
+credits: 'Martian Defense Team'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: discord
+    url: https://discord.gg/ynr4ZRQ7HP
+  - title: github
+    url: https://github.com/AD-Attacks
+  - title: linkedin
+    url: https://www.linkedin.com/showcase/active-directory-attacks
